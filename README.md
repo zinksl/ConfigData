@@ -1,7 +1,13 @@
 # ConfigData
+
 echo "# ConfigData" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/zinksl/ConfigData.git
+
 git push -u origin master
